@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Solid_Rectangle&apos;&#x0D;&#x0A;- Original project: &apos;Solid_Rectangle&apos;&#x0D;&#x0A;- Original element: &apos;Solid_Rectangle/src/jsp.Pattern&apos;" description="Delete element" element1="/src&lt;jsp.Pattern" element2="/src&lt;jsp" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1735311601756" subPackages="false" version="1.0"/>
+</session>
