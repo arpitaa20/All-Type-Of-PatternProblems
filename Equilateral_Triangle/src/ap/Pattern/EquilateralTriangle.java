@@ -23,6 +23,5 @@ public class EquilateralTriangle {
     		}
     		System.out.println();
     	}
-	
     }
 }
